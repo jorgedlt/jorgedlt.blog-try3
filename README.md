@@ -23,4 +23,4 @@ and ...
 	
 	Your SCSS file `css/main.scss` has an error on line 36: File to import not found or unreadable: minima. For more information, see https://help.github.com/articles/page-build-failed-invalid-sass-or-scss.
 	
-I have a ticket opened with github, and they are providing some guideance, this is suppoese to be a learning excercise so there is point in stressing about it.
+I have a ticket opened with github, and they are responding with providing some guideance, this is suppoese to be a learning excercise so there is point in stressing about it.
